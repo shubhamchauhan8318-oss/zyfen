@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Stylized ZYFEN Musical Logo (White variant) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 22,25 L 78,25 L 78,35 L 68,35 L 64,30 L 35,30 L 35,34 L 22,34 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 72,30 L 32,75 L 42,75 L 78,35 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 37,50 C 31,45 23,45 22,54 C 21,60 25,64 29,62 C 26,58 28,53 33,52 L 44,65 L 48,60 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 52,67 C 47,65 42,68 41,73 C 40,78 45,82 51,82 C 58,82 63,77 62,71 C 61,66 56,64 52,67 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 28,75 L 78,75 L 78,65 L 72,70 L 40,70 L 34,75 Z" />
+</vector>
